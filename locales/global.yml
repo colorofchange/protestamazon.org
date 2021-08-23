@@ -1,22 +1,17 @@
 # GLOBAL Site Translations, intentionally namespaced
 en:
   global:
-    site_title: Protest Amazon
-    site_url: https://www.protestamazon.org
-    donation_url: https://www.fightforthefuture.org/donate/
+    site_title: Protest Poster
+    site_url: https://protestposter.colorofchange.org
+    donation_url: https://colorofchange.org/protect-protest/
     sharing:
-      title: Demand Amazon Stop Fueling Violent Policing
+      title: Protect our Right to Protest
       description: |
-        June marks the one year anniversary of the Black Lives Matter movement uprisings, and Amazon continues to expand police surveillance. We are demanding Amazon permanently divest from surveillance tech & cut ties with the police and ICE.
-
-        Help us shut down Amazon’s surveillance-powered police state ➡️ ProtestAmazon.org
-
-      image: https://www.protestamazon.org/share.jpg
+        State lawmakers have introduced more than 100 punitive anti-protest bills that not only threaten our right to protest racial injustice but also grant impunity to counter-protesters who try to harm us. Join the national fight to combat this backlash to our movements for justice, and harness your story to reclaim the power of protest.
+      image: https://protestposter.colorofchange.org/share.jpg
       default_tweet_text: |
-        June marks the one year anniversary of the Black Lives Matter movement uprisings, and Amazon continues to expand police surveillance.
-
-        Join us in demanding Amazon permanently divest from surveillance tech & cut ties with the police and ICE ➡️ ProtestAmazon.org
-      url: https://www.protestamazon.org
+        State lawmakers have introduced more than 100 punitive anti-protest bills that not only threaten our right to protest racial injustice but also grant impunity to counter-protesters who try to harm us. Join the national fight to combat this backlash to our movements for justice, and harness your story to reclaim the power of protest.
+      url: https://act.colorofchange.org/sign/Protect_Our_Right_to_Protest/
     letter_text: |
       TODO: letter text goes here
     common:

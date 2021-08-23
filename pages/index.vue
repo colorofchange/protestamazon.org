@@ -1,7 +1,7 @@
 <style lang="scss">
 section:first-child {
   background-color: #A4A4A4;
-  background-image: url('~assets/images/header.png');
+  background-image: url('~assets/images/Aug-24-Storytelling-Workshop-Header.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
   padding-top: 10vw;
@@ -155,7 +155,6 @@ p {
 
 .lnumber {
   margin-bottom: $spacer * 2;
-  padding-left: $spacer * 3;
   position: relative;
 
   img {

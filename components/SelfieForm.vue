@@ -161,7 +161,7 @@
   padding-left: $spacer * 3;
 
   &:before {
-    background-color: theme-color("dark-red");
+    background-color: theme-color("primary");
     background-position: center $spacer * 1.5;
     border-radius: $border-radius;
     background-size: $spacer * 3;
@@ -211,7 +211,7 @@
               .bg(:style="selfieBackground")
               .d-flex.h-100(:class="comment == '' ? 'align-items-center placeholder-text text-darkest-red text-center' : 'align-items-end text-white text-uppercase'")
                 .text.p-3.p-md-5 {{ displayableComment }}
-              .url.text-white ProtestAmazon.org
+              .url.text-white colorofchange.org/protect-protest
               //- This always needs to be present in the DOM, but should only be
                     visible if there's a video stream
               video(v-show="videoStream" ref="liveView" autoplay)
